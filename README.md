@@ -3,7 +3,7 @@ PHP Godaddy Appraisal Check
 
 GoDaddy launched its first Domain Appraisals since 2017. If you dont know what is domain appraisal is, me too. LoL. So basicly it is like a tool to predicting the value of the domain name on the market. Its usefull when you want to buy an existing domain name and try to figure out its estimated price. 
 
-GoDaddy provide API service for developer to access their APIs to check the appraisal. To access the API you need a developer account. 
+GoDaddy provide API service for developer to access their APIs to check the appraisal. To access the API you need to create a godday account. 
 But, there is limitation when accessing their API service. The  API uses a similar criterion, called a "rate limit,". A user only capable to query for 20 domains at a max. You can retry the request after 49seconds.
 
 
