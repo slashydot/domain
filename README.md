@@ -11,7 +11,7 @@ This limitation can be bypassed by using multiple API key.
 
 Todo: Create developer account. Go to https://developer.godaddy.com/. Generate a pair of API key ( access key and secret key) in production environment.  Repeat the process to gain more API key. Add the API key to variable $keys.
 
-From my experience, 10 key pairs is safe enough to check bulk file containing more than 100 domains :)
+From my experience, 5 key pairs is safe enough to check bulk file containing more than 100 domains :)
 
 
 *Tested with PHP5. Yes PHP5
